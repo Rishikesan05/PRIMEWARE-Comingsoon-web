@@ -4,7 +4,7 @@ This is the official **Coming Soon** landing page for **PRIMEWARE**, a high-end 
 
 ## 🌟 Key Features
 - **Ultra-Minimalist Aesthetic**: A sophisticated, dark-themed interface designed to project engineering excellence and modern minimalism.
-- **Pure CSS Background Dynamics**: Implements high-performance radial gradients and floating "glow" effects using CSS keyframe animations—zero external dependencies.
+- **Pure CSS Background Dynamics**: Implements high-performance radial gradients and floating "glow" effects using CSS keyframe animations-zero external dependencies.
 - **Fluid Typography**: Uses the 'Outfit' typeface with responsive sizing to ensure a perfect reading experience across all device classes.
 - **Glassmorphic CTA**: Features a subtle, backdrop-filtered call-to-action button with high-end hover states and box-shadow dynamics.
 - **Synchronised Animations**: Orchestrated entrance animations (FadeInUp/FadeInDown) to create a polished, "living" interface upon page load.

@@ -1,5 +1,8 @@
 # PRIMEWARE | Coming Soon Landing Page
 
+[![Live Website](https://img.shields.io/badge/Live%20Website-primeware.housefix.lk-00C49F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://primeware.housefix.lk)
+
+
 This is the official **Coming Soon** landing page for **PRIMEWARE**, a high-end digital transformation and product engineering agency. As a subsidiary of **HOUSEFIX.LK (PVT) LTD**, PRIMEWARE focuses on architecting premium digital experiences and scalable software solutions.
 
 ## 🌟 Key Features
